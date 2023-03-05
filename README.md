@@ -1,14 +1,16 @@
 # ADS-599-Capstone Project
 
-## Project Title
+## NLP + Machine Learning Techniques to Identifying Fake Job Postings
 ### Team Members
 Zacharaiah Freitas: zfreitas@sandiego.edu \
-Brianne Bell: bryanflores@sandiego.edu 
+Brianne Bell: bbell@sandiego.edu 
 
 ### Overview
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Identify job postings as being legitimate or fraudulent based on text values in the description, requirements, and other values accompanying the job posting. Similar to how fraudulent news stories can deceive, there are fraudulent job postings, postings that even knowledgeable individuals fall for. While it may cause a minor hindrance of costing time, it can turn worse for more troublesome postings that are asking for money or stealing credit information from the person applying. Our objective is to aid job applicants in recognizing fake job postings and avoiding them altogether. 
+
 ### Data Source
-TBD
-### How to Deploy
-### How to Monitor
+Kaggle - https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction 
+
+Number of Variables: 17 Columns
+Size of Dataset: 17,879 rows
 
